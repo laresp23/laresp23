@@ -1,16 +1,13 @@
-### Hi there 👋
+[![CPR A Fundación](git.png)](https://cpr.afundacion.org/inicio/)
 
-<!--
-**laresp23/laresp23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Luis Ares, un estudiante de DAW y alumno en CPR A Fundación en A Coruña.
 
-Here are some ideas to get you started:
+## Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Proyecto watchpy_app](https://github.com/laresp23/watchpy_app) - Proyecto Fin de ciclo.
+
+## Contacto
+
+Puedes contactarme a través de [mi correo electrónico](mailto:laresp23@fpcoruna.afundacion.org).
+
+¡Gracias por visitar mi repositorio!
